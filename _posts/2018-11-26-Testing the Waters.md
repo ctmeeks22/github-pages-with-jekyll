@@ -1,5 +1,5 @@
----
 title: "Testing the Waters"
+---
 date: 2018-11-26
 ---
 Im starting a learning course on github.com and part of the course
