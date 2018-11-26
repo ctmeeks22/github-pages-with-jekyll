@@ -12,4 +12,4 @@ github_username:  ctmeeks22
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-slate
+theme: minima
