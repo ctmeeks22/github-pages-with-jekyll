@@ -1,6 +1,7 @@
+---
 title: "Testing the Waters"
 date: 2018-11-26
-
+---
 Im starting a learning course on github.com and part of the course
 is publishing a website. To do this iv had to configure stuff and
 set a theme and stuff of that nature. I dont really intend to blog
