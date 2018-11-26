@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Testing the Waters on Coding
+author: ctmeeks22
+email: chrismeeks92@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Just me tring to learn the basics of Coding and such. Thinking about learning
+  to build websites so when i start my Personal Training i can create my own
+  website and build it how i want. If thats even how it works lol. 
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @chrismeeks92
+github_username:  ctmeeks22
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
